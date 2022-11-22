@@ -14,11 +14,11 @@
           <form action="login.php" method="POST" class="form">
                <h2>Sign In</h2>
 
-                <input type="number" name="studentId" class="box" placeholder="Student Number" required="">
+                <input type="number" name="studentId" class="box" placeholder="Student Number" required=""> <br>
 
-                <input type="email" name="email" class="box" placeholder="Email" required="@cvsu.com">
+                <input type="email" name="email" class="box" placeholder="Email" required="@cvsu.com"> <br>
 
-                <input type="password"name="password"class="box" placeholder="Password" required="">
+                <input type="password"name="password"class="box" placeholder="Password" required=""> <br>
 
                 <button class="button" type="submit" value="post">Log In</button>
           </form>
