@@ -15,6 +15,7 @@
                <h2>Sign In</h2>
 
                 <input type="number" name="studentId" class="box" placeholder="Student Number" required="">
+                <p>kahit  ano</p>
 
                 <input type="email" name="email" class="box" placeholder="Email" required="@cvsu.com">
 
