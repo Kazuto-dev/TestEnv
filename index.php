@@ -20,6 +20,8 @@
                 <input type="email" name="email" class="box" placeholder="Email" required="@cvsu.com">
                 <p>Papi Reeve POGI</p>
 
+                <p> WALA LANG TO</p>
+
                 <input type="password"name="password"class="box" placeholder="Password" required="">
                 <p>Jandel haha</p>
 
