@@ -21,6 +21,7 @@
                 <p>Papi Reeve POGI</p>
 
                 <input type="password"name="password"class="box" placeholder="Password" required="">
+                <p>Jandel haha</p>
 
                 <button class="button" type="submit" value="post">Log In</button>
           </form>
