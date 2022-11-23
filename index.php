@@ -19,6 +19,8 @@
 
                 <input type="email" name="email" class="box" placeholder="Email" required="@cvsu.com">
 
+                <p> WALA LANG TO</p>
+
                 <input type="password"name="password"class="box" placeholder="Password" required="">
 
                 <button class="button" type="submit" value="post">Log In</button>
