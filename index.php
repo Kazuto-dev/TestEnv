@@ -18,7 +18,7 @@
                 <p>HFJKADHFKAJHDFAKYUKAJKASDHFJKASHDFJKHASDJKFH</p>
 
                 <input type="email" name="email" class="box" placeholder="Email" required="@cvsu.com">
-                <p>Papi Reeve</p>
+                <p>Papi Reeve POGI</p>
 
                 <input type="password"name="password"class="box" placeholder="Password" required="">
 
