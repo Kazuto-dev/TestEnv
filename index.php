@@ -15,7 +15,7 @@
                <h2>Sign In</h2>
 
                 <input type="number" name="studentId" class="box" placeholder="Student Number" required="">
-                <p>HFJKADHFKAJHDFAKYUKAJKASDHFJKASHDFJKHASDJKFH</p>
+                <p>Kahit ano</p>
 
                 <input type="email" name="email" class="box" placeholder="Email" required="@cvsu.com">
                 <p>Papi Reeve POGI</p>
